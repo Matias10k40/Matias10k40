@@ -1,12 +1,7 @@
   "name": "Matias10k40",
   "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
-  
   "features": {},
-  
   "forwardPorts": [],
-  
   "postCreateCommand": "pip3 install --user -r requirements.txt",
-  
   "customizations": {},
-  
   "remoteUser": "root"
